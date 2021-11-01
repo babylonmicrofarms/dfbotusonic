@@ -37,3 +37,7 @@ python3 demo.py
 ## Credits
 
 ·author [Arya xue.peng@dfrobot.com]
+
+### References
+
+[setuptools](https://setuptools.pypa.io/en/latest/userguide/quickstart.html)

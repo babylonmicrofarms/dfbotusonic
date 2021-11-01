@@ -1,7 +1,7 @@
 # Copyright   [DFRobot](http://www.dfrobot.com), 2016
 # Copyright   GNU Lesser General Public License
 import time
-from a02yyuw_ultrasonic_sensor import A02YYUWUltrasonicSensor, Status
+from dfbotusonic.a02yyuw_ultrasonic_sensor import A02YYUWUltrasonicSensor, Status
 
 dev_id = input(
     "Enter the device file id linked to the DFRobot Ultrasonic UART interface default is (/dev/ttyUSB): "
