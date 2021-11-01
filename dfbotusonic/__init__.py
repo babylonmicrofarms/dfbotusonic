@@ -1,1 +1,1 @@
-import .a02yyuw_ultrasonic_sensor
+from . import a02yyuw_ultrasonic_sensor
